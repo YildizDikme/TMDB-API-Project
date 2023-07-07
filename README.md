@@ -15,7 +15,7 @@ Bu proje, Redux Toolkit'i kullanarak oluşturulan bir React uygulamasıdır. TMD
 
 1. Gerekli bağımlılıkları yüklemek için aşağıdaki komutu çalıştırın:
 
-npm install
+npm install <br>
 npm run dev
 
 ## Neden Vite?
